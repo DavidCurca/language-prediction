@@ -15,7 +15,7 @@ I used pytorch to create the neural network
 
 The Neural Net is a feed forward network It has 390(15x26) inputs, 1 hidden layers with 6 neurons each and 6 outputs
 
-## Date
+## Data
 I used my own data made from each languages dictionary
 
 ## Screen shots
